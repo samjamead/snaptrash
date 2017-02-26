@@ -1,0 +1,2 @@
+# snaptrash
+The Snaptrash website 
